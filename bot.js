@@ -33,10 +33,10 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
+global.owner = ['+919728714060',''] //owner number +919728714060
+global.wame = ['+919728714060'] 
+global.pemilik = ['+919728714060'] //owner number +919728714060
+global.premium = ['+919728714060'] //premium number +919728714060
 global.pengguna = 'Drips' //username
 global.footer = 'ZIM BOT INC'
 global.botnma = 'ZIM BOT INC' //bot name
@@ -55,7 +55,7 @@ global.available = false
 global.unavailable = true
 global.limittot = 100,
 global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
-global.reactmoji = '🇿🇼'
+global.reactmoji = '🤚'
 global.imgjoinrpg = fs.readFileSync('./image/joinrpg.jpg')
 global.imgmining = fs.readFileSync('./image/mining.jpg')
 global.imgdevil = fs.readFileSync('./image/img/devil.jpg')
